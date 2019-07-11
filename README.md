@@ -3,7 +3,7 @@ Skills National contest 1st place website from 2016
 
 Created by SkillsUSA Secondary, Web Design Team 117 (Elizabeth and Brian)
 
-Access Webpage: https://elizabethjjames.github.io/skillsNationalGold2016/nationalWebsite/index.html
+Access Webpage: https://elizabethjjames.github.io/skillsNationalGold2016/nationalWebsite/WhyCTE/index.html
 
 ©2016. WebProfessionals.org All rights reserved . Page 1 of 11
 National Web Design Contest 2016
